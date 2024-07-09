@@ -1,2 +1,2 @@
 # grid
-Grid--> Create a gallery using grid and it  should be responsive
+Grid-->Create a website using grid template given from the dribble
